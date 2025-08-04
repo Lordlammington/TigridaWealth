@@ -1,0 +1,14 @@
+<!-- Blog List Banner -->
+<section class="banner style1 align-center">
+    <div class="content">
+        <h1>Blog Articles</h1>
+        <p class="major">Read our latest posts and insights</p>
+        <ul>
+          {{ range (where .Site.RegularPages "Section" "blog") }}
+            <li>
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            </li>
+          {{ end }}
+        </ul>
+    </div>
+</section>

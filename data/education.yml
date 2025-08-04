@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style4 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "financial-education"
+title: "Financial Literacy"
+content: |
+  Understanding personal finance is crucial for achieving financial independence. This includes budgeting, saving, investing, and planning for retirement. Equip yourself with the knowledge to make informed financial decisions.
+button: 
+  label: "Learn More"
+  link: "#education"
+image: "images/spotlight02.jpg"

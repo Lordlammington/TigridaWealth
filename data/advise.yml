@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style4 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "advise"
+title : "Financial Advise"
+content: |
+  At Tigrida Wealth, we empower your financial journey with expert advice and personalized strategies.No matter what part of your financial journey you're on, our team is here to guide you. Get in touch or explore our blog posts for insights and tips.
+button: 
+  label: "Get In Touch"
+  link: "blog/"
+image: "images/spotlight01.jpg"

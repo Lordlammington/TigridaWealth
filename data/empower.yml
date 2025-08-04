@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style4 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "empowerment"
+title: "Empower Your Financial Future"
+content: |
+  Financial independence is key to empowering women. Join our community to learn about investment strategies, retirement planning, and wealth-building techniques designed specifically for women. Take control of your financial destiny today!
+button: 
+  label: "Join Us"
+  link: "#empowerment"
+image: "images/spotlight02.jpg"

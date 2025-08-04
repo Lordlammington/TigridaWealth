@@ -1,0 +1,9 @@
+<!-- Spotlight -->
+<section class="blogbanner {{ .style }}"{{ with .id }} id="{{ . }}"{{ end }}>
+    <div class="content">
+        {{ with .title }}<h2>{{ . }}</h2>{{ end }}
+        <i>{{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }} </i>
+    </div>
+
+
+</section>

@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style4 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "budgeting"
+title: "Master Your Budget"
+content: |
+  Creating and maintaining a budget is essential for financial stability. Learn how to track your income and expenses, set financial goals, and make informed spending decisions to achieve your financial objectives.
+button: 
+  label: "Get Started"
+  link: "#budgeting"
+image: "images/spotlight03.jpg"

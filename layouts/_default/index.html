@@ -1,0 +1,17 @@
+{{ define "main" }}
+ 
+	{{ partial "frontbanner" site.Data.sitebanner }}
+	{{ partial "bloglist" . }}
+	{{ partial "gallery" site.Data.gallery }}
+
+	
+	{{ partial "spotlight" site.Data.advise }}
+	{{ partial "spotlight" site.Data.education }}
+	{{ partial "spotlight" site.Data.budgeting }}
+	{{ partial "spotlight" site.Data.empower }}
+	{{ partial "spotlight" site.Data.financialadv }}
+
+	{{ partial "footer" . }}
+
+
+{{ end }}
