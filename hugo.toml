@@ -12,7 +12,7 @@ relativeURLs = "true"
 #canonifyURLs = "true"
 
 # Local
-baseURL = "http://localhost:1313/"
+baseURL = "https://lordlammington.github.io/TigirdaWealth/"
 publishDir = "public"
 title = "Tigrida Wealth"
 
