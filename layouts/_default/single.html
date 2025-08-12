@@ -4,11 +4,8 @@
   <section class="spotlight {{ .Params.style }}"{{ with .Params.id }} id="{{ . }}"{{ end }}>
     <div class="content">
         <h1>{{ .Title }}</h1>
+      </div>
         {{ .Content }}
-    </div>
-    {{ with .Params.image }}<div class="image">
-        <img src="{{ . }}" alt="" />
-    </div>{{ end }}
   </section>
 
   {{ partial "footer" . }}
