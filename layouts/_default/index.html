@@ -1,15 +1,15 @@
 {{ define "main" }}
  
 	{{ partial "frontbanner" site.Data.sitebanner }}
-	{{ partial "bloglist" . }}
+	<!--{{ partial "bloglist" . }}-->
 
-	{{ partial "contact" site.Data.sitebanner }}
-
+	
 	{{ partial "spotlight" site.Data.advise }}
 	{{ partial "spotlight" site.Data.education }}
 	{{ partial "spotlight" site.Data.budgeting }}
 	{{ partial "spotlight" site.Data.empower }}
 	{{ partial "spotlight" site.Data.financialadv }}
+	{{ partial "contact" site.Data.sitebanner }}
 
 	{{ partial "footer" . }}
 
