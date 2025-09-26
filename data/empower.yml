@@ -3,7 +3,7 @@ style: "style4 orient-right content-align-left image-position-center onscroll-im
 id: "empowerment"
 title: "Empower Your Financial Future"
 content: |
-  Financial independence is key to empowering women. Join our community to learn about investment strategies, retirement planning, and wealth-building techniques designed specifically for women. Take control of your financial destiny today!
+  Financial independence is key to empowering women. Join our community to learn about investment strategies, retirement planning, and  -building techniques designed specifically for women. Take control of your financial destiny today!
 button: 
   label: "Join Us"
   link: "#empowerment"

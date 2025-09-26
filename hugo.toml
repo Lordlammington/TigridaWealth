@@ -14,7 +14,7 @@ relativeURLs = "false"
 # Local
 baseURL = "https://lordlammington.github.io/"
 publishDir = "public"
-title = "Tigrida Wealth"
+title = "Tigrida  "
 
 # Remote
 #baseURL = "https://caressofsteel.github.io/demos/hugo/hugo-story/"

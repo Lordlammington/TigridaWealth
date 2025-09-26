@@ -1,5 +1,5 @@
 ---
-title: "Structuring Your Wealth"
+title: "Structuring Your  "
 date: 2020-08-19T14:44:21+01:00
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
 image: "/images/spotlight02.jpg"
@@ -7,7 +7,7 @@ image: "/images/spotlight02.jpg"
 
 ## A UK Investor’s Guide
 
-Structuring your wealth for longevity means balancing growth, preservation, and accessibility. In the UK context, consider:
+Structuring your   for longevity means balancing growth, preservation, and accessibility. In the UK context, consider:
 
 -   Diversification across asset classes (equities, bonds, property, cash).
 -   Tax wrappers: ISAs, pensions (SIPP or workplace), and offshore bonds.
