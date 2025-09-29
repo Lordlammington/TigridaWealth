@@ -1,10 +1,9 @@
 ####################### Spotlight #########################
 style: "style4 orient-left content-align-left image-position-center onscroll-image-fade-in"
 id: "advise"
-title : "Financial Advise"
+title : "Yorshire Grit Advise"
 content: |
-  Life is so much more than money - it's about family, purpose and the future you want to build.
-  At one financial solutions, (Yorkshire), we help you take control of your financial future with confidence and saftey. 
+  contact us today to see how you can gain advise from us today!
 button: 
   label: "Get In Touch"
   link: "blog/"
